@@ -1,0 +1,31 @@
+{
+    "estacoes_inmet": {
+        "A801": {"nome": "PORTO ALEGRE", "municipio": "PORTO ALEGRE"},
+        "A802": {"nome": "RIO GRANDE", "municipio": "RIO GRANDE"},
+        "A803": {"nome": "PELOTAS", "municipio": "PELOTAS"},
+        "A804": {"nome": "SANTA MARIA", "municipio": "SANTA MARIA"},
+        "A805": {"nome": "URUGUAIANA", "municipio": "URUGUAIANA"},
+        "A806": {"nome": "PASSO FUNDO", "municipio": "PASSO FUNDO"},
+        "A807": {"nome": "BAGE", "municipio": "BAGE"},
+        "A808": {"nome": "CAXIAS DO SUL", "municipio": "CAXIAS DO SUL"},
+        "A809": {"nome": "ERECHIM", "municipio": "ERECHIM"},
+        "A810": {"nome": "SANTANA DO LIVRAMENTO", "municipio": "SANTANA DO LIVRAMENTO"},
+        "A811": {"nome": "ALEGRETE", "municipio": "ALEGRETE"},
+        "A812": {"nome": "SÃO BORJA", "municipio": "SÃO BORJA"},
+        "A813": {"nome": "TORRES", "municipio": "TORRES"},
+        "A814": {"nome": "SÃO LUIZ GONZAGA", "municipio": "SÃO LUIZ GONZAGA"},
+        "A815": {"nome": "SÃO FRANCISCO DE PAULA", "municipio": "SÃO FRANCISCO DE PAULA"},
+        "A816": {"nome": "VACARIA", "municipio": "VACARIA"},
+        "A817": {"nome": "SOLEDADE", "municipio": "SOLEDADE"},
+        "A818": {"nome": "CRUZ ALTA", "municipio": "CRUZ ALTA"},
+        "A819": {"nome": "SANTIAGO", "municipio": "SANTIAGO"},
+        "A820": {"nome": "OSÓRIO", "municipio": "OSÓRIO"}
+    },
+    "colunas_numericas_inmet_padrao": [
+        "PRECIPITAÇÃO TOTAL, HORÁRIO (mm)",
+        "TEMPERATURA DO AR - BULBO SECO, HORARIA (°C)",
+        "TEMPERATURA MÁXIMA NA HORA ANT. (AUT) (°C)",
+        "TEMPERATURA MÍNIMA NA HORA ANT. (AUT) (°C)",
+        "UMIDADE RELATIVA DO AR, HORARIA (%)"
+    ]
+}

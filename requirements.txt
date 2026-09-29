@@ -1,0 +1,37 @@
+# =============================================================================
+# DEPENDÊNCIAS DO PIPELINE TCC
+# =============================================================================
+# Instalação: pip install -r requirements.txt
+# =============================================================================
+
+# =============================================================================
+# 1. Processamento de Dados Numéricos e Estruturados
+# =============================================================================
+numpy==1.26.4               # Operações matemáticas de alta performance (arrays, matrizes)
+pandas                      # DataFrames para manipulação de dados estruturados
+
+# =============================================================================
+# 2. Visualização e Análise Estatística
+# =============================================================================
+matplotlib                  # Gráficos estáticos (salva PNGs de importância, distribuições)
+seaborn                     # Visualizações estatísticas avançadas (gráficos exploratórios)
+
+# =============================================================================
+# 3. Machine Learning e Modelagem Preditiva
+# =============================================================================
+scikit-learn                # Modelos base (Ridge, Gradient Boosting, Random Forest)
+lightgbm                    # Algoritmo principal (Gradient Boosting otimizado)
+joblib                      # Serialização de modelos (salva .pkl)
+
+# =============================================================================
+# 4. Coleta e Integração de Dados Externos
+# =============================================================================
+geopandas                   # Geração de coordenadas geográficas (shapefile IBGE)
+xarray                      # Leitura de arquivos NetCDF (ERA5-Land)
+cdsapi                      # Download de dados climáticos (API Copernicus CDS)
+
+# =============================================================================
+# 5. Bibliotecas Padrão do Python (não precisam ser instaladas)
+# =============================================================================
+# argparse, csv, glob, json, logging, pathlib, re, subprocess, sys,
+# typing, unicodedata, warnings, traceback, datetime, os

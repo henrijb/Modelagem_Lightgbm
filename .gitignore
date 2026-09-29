@@ -1,0 +1,39 @@
+# Arquivos de dados grandes
+*.zip
+*.7z
+*.rar
+*.tar.gz
+*.xlsx
+*.parquet
+*.h5
+*.pkl
+data/*
+Documentos/*
+outputs/*
+output/*
+OLDoutput/*
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+package-lock.json
+TCC/*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Outros
+.DS_Store
+*.log
+*.tmp
+.ipynb_checkpoints/*
+AnaliseApoio.ipynb
+.aider*
